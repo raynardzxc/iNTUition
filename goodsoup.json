@@ -1,0 +1,26 @@
+{
+  "question": [
+    "Q1. From 20-30 Years Old, Which would you choose?",
+    "Q2. From 30-40 years Old, Would you put your money into?",
+    "Q3. From 40-50 years Old, Would you not touch the money shift  or cash out?"
+  ],
+  "answer": [
+    [[0.08,1000,10],[0.08,2000,5]],
+    [[0.08,0,10],[0.03,0,10],[0.005,0,10]],
+    [0,0]
+  ],
+  "options": [
+
+    ["Invest $1000/year from 20-30",
+      "$2000/year from 25 -30"
+    ],
+    ["Investment Plan",
+      "Saving Plan",
+	"Bank"
+       
+    ],
+    ["Leave it",
+      "Take it out as cash"
+    ]
+  ]
+}
